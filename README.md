@@ -28,6 +28,6 @@
   <img src="https://skillicons.dev/icons?i=wordpress,html,css,sass,js,ts,nodejs,nextjs,django,fastapi" />
   <img src="https://skillicons.dev/icons?i=mysql,sqlite,redis,mongodb" />
   <img src="https://skillicons.dev/icons?i=pytorch,octave,r,py" />
-  <img src="https://skillicons.dev/icons?i=vim,nvim,git,docker,kubernetes,selenium,postman" />
+  <img src="https://skillicons.dev/icons?i=vim,neovim,git,docker,kubernetes,selenium,postman" />
 </p>
 <hr>
