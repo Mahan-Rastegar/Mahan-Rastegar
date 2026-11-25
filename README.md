@@ -1,6 +1,7 @@
-### Passionate about building beautiful, functional software
+## Passionate about building beautiful, functional software
 
-- 🌱 I’m currently learning **[OS]()**
+- 🌱 I’m currently learning OS & Bioinformatics
+- with a focus on Microkernels
 <br>
 <div align="center">
   <a href="m.rastegar.contact@gmail.com">
