@@ -1,4 +1,4 @@
-## Passionate about building beautiful, functional software
+### Passionate about building beautiful, functional software
 
 - 🌱 I’m currently learning OS & Bioinformatics
 - with a focus on Microkernels
